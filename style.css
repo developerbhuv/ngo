@@ -145,19 +145,20 @@ img{
   color: #fff;
   font-size: 25px;
   font-weight: bold;
-  margin-top: 15px; 
+  //margin-top: 15px; 
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
   background-color: transparent;
   color: #fff;
 }
 .navbar-default {
-  background-color: #313b3d;
+  background-image: url("img/bg.jpg");
+  //background-color: ;/* #313b3d */
   border-color: transparent;
 }
 #navbar{overflow-x: hidden;}
 .navbar-default .navbar-nav > li > a {
-  color: #fff;
+  //color: #fff;
   padding: 30px 15px;
   text-transform: uppercase;
   -webkit-transition: all 0.5s;
@@ -297,6 +298,7 @@ img{
   padding-right: 30px;
   width: 100%;
 }
+
 .aboutus_area p {
   line-height: 22px;
 }
